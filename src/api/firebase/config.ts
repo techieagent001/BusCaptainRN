@@ -4,13 +4,13 @@ import { getAuth } from 'firebase/auth';
 
 // TODO: Replace with your Firebase config
 const firebaseConfig = {
-  apiKey: 'YOUR_API_KEY',
+  apiKey: 'AIzaSyBJIcQ4WWjmQb-I_mBvwgStWRviXpy8qN8',
   authDomain: 'YOUR_AUTH_DOMAIN',
-  databaseURL: 'YOUR_DATABASE_URL',
-  projectId: 'YOUR_PROJECT_ID',
-  storageBucket: 'YOUR_STORAGE_BUCKET',
-  messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-  appId: 'YOUR_APP_ID',
+  databaseURL: 'https://bus-captain-19bc1-default-rtdb.asia-southeast1.firebasedatabase.app',
+  projectId: 'bus-captain-19bc1',
+  storageBucket: 'bus-captain-19bc1.firebasestorage.app',
+  messagingSenderId: '343688949162',
+  appId: '1:343688949162:ios:8698a7609ac1b899e10fd3',
 };
 
 // Initialize Firebase
